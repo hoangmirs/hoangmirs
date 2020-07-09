@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on NimbleHQ
 - 🌱 I’m currently learning Golang/AWS
 - 👯 I’m looking to collaborate on RoR/VueJS projects
