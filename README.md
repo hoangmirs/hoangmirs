@@ -10,6 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @hoangmirs
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<iframe src="https://mirs-dev.hoangmirs.now.sh/" class="is-fullwidth" height="315px"
-</iframe>
